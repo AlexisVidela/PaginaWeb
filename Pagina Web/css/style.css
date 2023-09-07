@@ -167,7 +167,12 @@ color: #612e2e;
 #footergrid{
     grid-area: Footer;
 }
-
+.bg-slide{
+    background-image: url(../image/slider/godofwar5.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
 
 
 
